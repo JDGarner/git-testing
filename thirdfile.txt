@@ -1,5 +1,6 @@
-some conclicts gonna be here
+MASTER CHANGES
 
 
+more master chagnes
 
 feature branch changes
